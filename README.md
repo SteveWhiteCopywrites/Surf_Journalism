@@ -161,3 +161,16 @@ Read the full article:
 https://wavelengthmag.com/interview-patrick-langdon-dark/
 
 ![Article header](pld_header.png)
+
+### From the Quest for Sponsorship to the Hunt for the World’s Biggest Waves
+
+Publication: The Inertia  
+Date: November 2015  
+Role: Journalist / writer  
+
+Interview feature with British big-wave surfer Andrew Cotton following the release of his film *Behind The Lines*. The conversation explores the realities of chasing giant waves at Nazaré and Mullaghmore, the challenge of securing sponsorship and funding for big-wave projects, and the physical and mental demands of pushing the limits of modern big-wave surfing. :contentReference[oaicite:0]{index=0}  
+
+Read the full article:  
+https://www.theinertia.com/surf/from-the-quest-for-sponsorship-to-the-hunt-for-the-worlds-biggest-waves/
+
+![Article header](Cotty_header.png)
