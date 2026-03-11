@@ -33,7 +33,8 @@ Preview of the PuraVida MiPost Welsh National Surfing Championships.
 https://www.carvemag.com/2025/05/get-ready-for-the-welsh-2025/
 
 • **Welsh Surfers Selected to Represent Great Britain at the 2025 ISA World Surfing Games**  
-News feature announcing the selection of Patrick Langdon-Dark and Logan Nicol to compete for Team GB at the ISA World Surfing Games in El Salvador. Published in print South Wales Evening Post 
+Published in South Wales Evening Post. News feature announcing the selection of Patrick Langdon-Dark and Logan Nicol to compete for Team GB at the ISA World Surfing Games in El Salvador.
+
 https://www.wsf.wales/news/welsh-surfers-selected-to-represent-great-britain-at-2025-isa-world-surfing-games
 
 
