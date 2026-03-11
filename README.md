@@ -17,3 +17,18 @@ Topics include:
 - athlete interviews
 - Welsh surf scene
 - event reporting
+
+- ## Selected Articles
+
+### Llywelyn Williams Four-Time World Para Surf Champ
+
+Publication: Carve Magazine  
+Date: November 2025  
+Role: Journalist / writer  
+
+News feature covering Welsh para-surfing champion Llywelyn “Sponge” Williams after securing his fourth ISA World Para Surfing Championship title in Oceanside, California.
+
+Read the full article:  
+https://www.carvemag.com/2025/11/llywelyn-williams-four-time-world-para-surf-champ/
+![Article header](Sponge_world_champ_header.png)
+![Article header](Sponge_world_champ_body.png)
