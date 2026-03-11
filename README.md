@@ -103,3 +103,16 @@ https://www.carvemag.com/2025/11/gromageddon-takes-langland-by-storm/
 ![Article header](Grom_header.png)
 
 ![Opening paragraphs](Grom_body.png)
+
+### DIY SOS, Good Vibes
+
+Publication: Carve Magazine  
+Date: November 2020  
+Role: Journalist / writer  
+
+News feature covering the opening of Surfability UK’s purpose-built adaptive surf facility at Caswell Bay following a BBC DIY SOS Big Build project supported by Children in Need. The article highlights the work of Surfability founder Ben Clifford and the organisation’s mission to help surfers with physical and cognitive impairments experience the freedom of riding waves. Exclusive comment from DIY SOS presenter, Nick Knowles.
+
+Read the full article:  
+https://www.carvemag.com/2020/11/diy-sos-good-vibes/
+
+![Article header](DIYSOS_header.png)
