@@ -136,7 +136,7 @@ https://www.carvemag.com/2020/11/diy-sos-good-vibes/
 
 ### Welsh Surfers Selected to Represent Great Britain at the 2025 ISA World Surfing Games
 
-Publication: Welsh Surfing Federation  
+Publication: Welsh Surfing Federation and South Wales Evening Post (print)
 Date: September 2025  
 Role: Journalist / writer  
 
