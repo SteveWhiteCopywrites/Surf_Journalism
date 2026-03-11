@@ -19,6 +19,24 @@ Topics include:
 - Welsh surf scene
 - event reporting
 
+- ## Featured Work
+
+• **Llywelyn “Sponge” Williams – Four-Time World Para Surf Champion**  
+Carve Magazine feature on Wales’ four-time ISA World Para Surfing Champion.  
+https://www.carvemag.com/2025/11/llywelyn-williams-four-time-world-para-surf-champ/
+
+• **So Sick! The Return of the Toxic Trophy**  
+Feature preview exploring the environmental roots of Langland’s iconic protest contest.  
+https://www.carvemag.com/2024/10/so-sick-the-return-of-the-toxic-trophy/
+
+• **Get Ready for The Welsh 2025**  
+Preview of the PuraVida MiPost Welsh National Surfing Championships.  
+https://www.carvemag.com/2025/05/get-ready-for-the-welsh-2025/
+
+• **Gromageddon Takes Langland by Storm**  
+Junior surf competition report from Langland Bay.  
+https://www.carvemag.com/2025/11/gromageddon-takes-langland-by-storm/
+
 - ## Selected Articles
 
 ### Llywelyn Williams Four-Time World Para Surf Champ
