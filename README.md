@@ -148,3 +148,16 @@ https://www.wsf.wales/news/welsh-surfers-selected-to-represent-great-britain-at-
 ![Article header](welsh_surfers_header1.jpg)
 
 ![Opening paragraphs](welsh_surfers_body.jpg)
+
+### Meet Swansea Super-Grom & British U18 Champ Patrick Langdon-Dark
+
+Publication: Wavelength Magazine  
+Date: December 2017  
+Role: Journalist / writer  
+
+Interview with Welsh surfer Patrick Langdon-Dark following his rise through the UK junior ranks, including his U18 UK Pro Surf Tour title and success on the Nerf Clash of the Groms series. The conversation explores his training regime, early surfing influences on Gower, competitive ambitions and the challenge of balancing education with a developing international surf career.
+
+Read the full article:  
+https://wavelengthmag.com/interview-patrick-langdon-dark/
+
+![Article header](pld_header.png)
