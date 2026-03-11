@@ -145,6 +145,6 @@ Published in South Wales Evening Post, this news feature announces the selection
 Read the full article:  
 https://www.wsf.wales/news/welsh-surfers-selected-to-represent-great-britain-at-2025-isa-world-surfing-games
 
-![Article header](welsh_surfers_header1.png)
+![Article header](welsh_surfers_header1.jpg)
 
-![Opening paragraphs](welsh_surfers_body.png)
+![Opening paragraphs](welsh_surfers_body.jpg)
