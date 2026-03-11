@@ -32,6 +32,7 @@ News feature covering Welsh para-surfing champion Llywelyn “Sponge” Williams
 Read the full article:  
 https://www.carvemag.com/2025/11/llywelyn-williams-four-time-world-para-surf-champ/
 ![Article header](Sponge_world_champ_header.png)
+
 ![Article header](Sponge_world_champ_body.png)
 
 ### Welsh Surfing Federation – 2025 in Review
@@ -57,4 +58,20 @@ Feature preview covering the return of the legendary Toxic Trophy at Langland Ba
 Read the full article:  
 https://www.carvemag.com/2024/10/so-sick-the-return-of-the-toxic-trophy/
 ![Article header](Toxic_trophy_header.png)
+
 ![Opening paragraphs](Toxic_trophy_body.png)
+
+### Get Ready for The Welsh 2025
+
+Publication: Carve Magazine  
+Date: May 2025  
+Role: Journalist / writer  
+
+Preview feature ahead of the PuraVida MiPost Welsh National Surfing Championships at Freshwater West, highlighting the history and prestige of “The Welsh” and featuring interviews with reigning champions Logan Nicol and Josie Hawke discussing their preparation and ambitions for the 2025 contest.
+
+Read the full article:  
+https://www.carvemag.com/2025/05/get-ready-for-the-welsh-2025/
+
+![Article header](Welsh_preview_header.png)
+
+![Opening paragraphs](Welsh_preview_body.png)
