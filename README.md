@@ -157,7 +157,7 @@ Publication: The Inertia
 Date: November 2015  
 Role: Journalist / writer  
 
-Interview feature with British big-wave surfer Andrew Cotton following the release of his film *Behind The Lines*. The conversation explores the realities of chasing giant waves at Nazaré and Mullaghmore, the challenge of securing sponsorship and funding for big-wave projects, and the physical and mental demands of pushing the limits of modern big-wave surfing. :contentReference[oaicite:0]{index=0}  
+Interview feature with British big-wave surfer Andrew Cotton following the release of his film *Behind The Lines*. The conversation explores the realities of chasing giant waves at Nazaré and Mullaghmore, the challenge of securing sponsorship and funding for big-wave projects, and the physical and mental demands of pushing the limits of modern big-wave surfing.
 
 Read the full article:  
 https://www.theinertia.com/surf/from-the-quest-for-sponsorship-to-the-hunt-for-the-worlds-biggest-waves/
