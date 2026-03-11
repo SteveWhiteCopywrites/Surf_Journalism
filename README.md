@@ -56,4 +56,5 @@ Feature preview covering the return of the legendary Toxic Trophy at Langland Ba
 
 Read the full article:  
 https://www.carvemag.com/2024/10/so-sick-the-return-of-the-toxic-trophy/
+![Article header](Toxic_trophy_header.png)
 ![Opening paragraphs](Toxic_trophy_body.png)
