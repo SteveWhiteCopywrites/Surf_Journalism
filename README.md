@@ -44,4 +44,3 @@ A year-in-review feature highlighting the achievements of Welsh surfers and the 
 
 Read the full article:  
 https://wsa.wales/welsh-surfing-federation-2025-in-review/
-![Article header](Welsh Surfing Review Header.png)
