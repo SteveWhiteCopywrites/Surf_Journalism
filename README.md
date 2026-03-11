@@ -1,6 +1,6 @@
 # Surf Journalism
 A portfolio of my work as a surf journalist.
-This repository contains examples of surf journalism written by Steve White,
+This repository contains a selection of surf journalism written by Steve White,
 covering surf competitions and events at Wales and UK level, athlete profiles and surf culture.
 
 Publications include:
@@ -9,6 +9,7 @@ Publications include:
 - Carve Magazine
 - Wavelength Magazine
 - The Inertia
+- Welsh Sports Association
 
 Topics include:
 
@@ -32,3 +33,14 @@ Read the full article:
 https://www.carvemag.com/2025/11/llywelyn-williams-four-time-world-para-surf-champ/
 ![Article header](Sponge_world_champ_header.png)
 ![Article header](Sponge_world_champ_body.png)
+
+### Welsh Surfing Federation – 2025 in Review
+
+Publication: Welsh Sports Association (WSA)  
+Date: February 2026  
+Role: Journalist / writer  
+
+A year-in-review feature highlighting the achievements of Welsh surfers and the Welsh Surfing Federation across domestic and international competition during the 2025 season, including major performances from athletes such as Llywelyn “Sponge” Williams and Patrick Langdon-Dark. 
+
+Read the full article:  
+https://wsa.wales/welsh-surfing-federation-2025-in-review/
