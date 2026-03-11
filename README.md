@@ -74,4 +74,4 @@ https://www.carvemag.com/2025/05/get-ready-for-the-welsh-2025/
 
 ![Article header](Welsh_preview_header.png)
 
-![Opening paragraphs](Welsh_preview_ body.png)
+![Opening paragraphs](Welsh_preview_body.png)
