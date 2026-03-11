@@ -88,3 +88,18 @@ Read the full article:
 https://www.wsf.wales/news/team-england-dominate-to-take-the-gb-cup-2023-
 
 ![Article header](GBCUP_header.png)
+
+### Gromageddon Takes Langland by Storm
+
+Publication: Carve Magazine  
+Date: November 2025  
+Role: Journalist / writer  
+
+Competition report from Langland Bay where Wales’ top junior surfers gathered for the Gromageddon event hosted by Langland Board Riders. The contest marked the final stop of the Welsh Surfing Federation Junior Surf Series, with young surfers competing across multiple age divisions in lively 2–4ft surf while spectators lined the promenade to watch the next generation of Welsh talent in action. :contentReference[oaicite:0]{index=0}
+
+Read the full article:  
+https://www.carvemag.com/2025/11/gromageddon-takes-langland-by-storm/
+
+![Article header](Grom_header.png)
+
+![Opening paragraphs](Grom_body.png)
