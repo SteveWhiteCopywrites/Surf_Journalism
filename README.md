@@ -1,7 +1,7 @@
 # Surf Journalism
 A portfolio of my work as a surf journalist.
 This repository contains examples of surf journalism written by Steve White,
-covering Welsh surf competitions, athlete profiles and surf culture.
+covering surf competitions and events at Wales and UK level, athlete profiles and surf culture.
 
 Publications include:
 
