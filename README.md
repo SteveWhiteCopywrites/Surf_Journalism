@@ -35,8 +35,8 @@ Role: Journalist / writer
 
 News feature covering Welsh para-surfing champion Llywelyn “Sponge” Williams after securing his fourth ISA World Para Surfing Championship title in Oceanside, California.
 
-Read the full article:  
-https://www.carvemag.com/2025/11/llywelyn-williams-four-time-world-para-surf-champ/
+Read the full article on the [WSF website](https://www.carvemag.com/2025/11/llywelyn-williams-four-time-world-para-surf-champ/).  
+
 ![Article header](Sponge_world_champ_header.png)
 
 ![Article header](Sponge_world_champ_body.png)
@@ -49,8 +49,7 @@ Role: Journalist / writer
 
 Published in South Wales Evening Post, this news feature announces the selection of Welsh surfers Patrick Langdon-Dark and Logan Nicol to represent Great Britain at the 2025 ISA World Surfing Games in Surf City, El Salvador — a key event on the international surfing calendar and an important step toward Olympic qualification for the LA 2028 Games.
 
-Read the full article:  
-https://www.wsf.wales/news/welsh-surfers-selected-to-represent-great-britain-at-2025-isa-world-surfing-games
+Read the full article on the [WSF website](https://www.wsf.wales/news/welsh-surfers-selected-to-represent-great-britain-at-2025-isa-world-surfing-games).
 
 ![Article header](welsh_surfers_header1.jpg)
 
