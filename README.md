@@ -41,6 +41,21 @@ https://www.carvemag.com/2025/11/llywelyn-williams-four-time-world-para-surf-cha
 
 ![Article header](Sponge_world_champ_body.png)
 
+### Welsh Surfers Selected to Represent Great Britain at the 2025 ISA World Surfing Games
+
+Publication: Welsh Surfing Federation and South Wales Evening Post (print)
+Date: September 2025  
+Role: Journalist / writer  
+
+Published in South Wales Evening Post, this news feature announces the selection of Welsh surfers Patrick Langdon-Dark and Logan Nicol to represent Great Britain at the 2025 ISA World Surfing Games in Surf City, El Salvador — a key event on the international surfing calendar and an important step toward Olympic qualification for the LA 2028 Games.
+
+Read the full article:  
+https://www.wsf.wales/news/welsh-surfers-selected-to-represent-great-britain-at-2025-isa-world-surfing-games
+
+![Article header](welsh_surfers_header1.jpg)
+
+![Opening paragraphs](welsh_surfers_body.jpg)
+
 ### Welsh Surfing Federation – 2025 in Review
 
 Publication: Welsh Sports Association (WSA)  
@@ -122,21 +137,6 @@ Read the full article:
 https://www.carvemag.com/2020/11/diy-sos-good-vibes/
 
 ![Article header](DIYSOS_header.png)
-
-### Welsh Surfers Selected to Represent Great Britain at the 2025 ISA World Surfing Games
-
-Publication: Welsh Surfing Federation and South Wales Evening Post (print)
-Date: September 2025  
-Role: Journalist / writer  
-
-Published in South Wales Evening Post, this news feature announces the selection of Welsh surfers Patrick Langdon-Dark and Logan Nicol to represent Great Britain at the 2025 ISA World Surfing Games in Surf City, El Salvador — a key event on the international surfing calendar and an important step toward Olympic qualification for the LA 2028 Games.
-
-Read the full article:  
-https://www.wsf.wales/news/welsh-surfers-selected-to-represent-great-britain-at-2025-isa-world-surfing-games
-
-![Article header](welsh_surfers_header1.jpg)
-
-![Opening paragraphs](welsh_surfers_body.jpg)
 
 ### Meet Swansea Super-Grom & British U18 Champ Patrick Langdon-Dark
 
