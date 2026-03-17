@@ -25,7 +25,7 @@ Published in South Wales Evening Post. News feature announcing the selection of 
 https://www.wsf.wales/news/welsh-surfers-selected-to-represent-great-britain-at-2025-isa-world-surfing-games
 
 
-- ## Selected Articles
+## Selected Articles
 
 ### Llywelyn Williams Four-Time World Para Surf Champ
 
