@@ -26,6 +26,19 @@ https://www.wsf.wales/news/welsh-surfers-selected-to-represent-great-britain-at-
 
 ## Selected Articles
 
+### Welsh Surf Trio Target Success in Morocco
+Regional press coverage featuring Welsh surfers competing on the World Surf League Qualifying Series in Morocco.
+
+Read on: 
+[WSF website](https://www.wsf.wales/news/welsh-surfers-selected-to-represent-great-britain-at-2025-isa-world-surfing-games); [Pressreader](https://www.pressreader.com/uk/south-wales-evening-post/20260324/page/35)
+
+Publication: Welsh Surfing Federation and *South Wales Evening Post* (print)
+Date: March 2026
+
+<img src="images/trio1.png" width="600">
+
+<img src="images/trio2.png" width="600">
+
 ### Llywelyn Williams Four-Time World Para Surf Champ
 
 Publication: Carve Magazine  
@@ -41,12 +54,10 @@ Read on the [WSF website](https://www.carvemag.com/2025/11/llywelyn-williams-fou
 <img src="images/Sponge2.png" width="600">
 
 ### Welsh Surfers Selected to Represent Great Britain at the 2025 ISA World Surfing Games
+The news feature announces the selection of Welsh surfers Patrick Langdon-Dark and Logan Nicol to represent Great Britain at the 2025 ISA World Surfing Games in Surf City, El Salvador — a key event on the international surfing calendar and an important step toward Olympic qualification for the LA 2028 Games.
 
 Publication: Welsh Surfing Federation and *South Wales Evening Post* (print)
 Date: September 2025  
-Role: Journalist
-
-The news feature announces the selection of Welsh surfers Patrick Langdon-Dark and Logan Nicol to represent Great Britain at the 2025 ISA World Surfing Games in Surf City, El Salvador — a key event on the international surfing calendar and an important step toward Olympic qualification for the LA 2028 Games.
 
 Read on: 
 [WSF website](https://www.wsf.wales/news/welsh-surfers-selected-to-represent-great-britain-at-2025-isa-world-surfing-games); [Pressreader](https://www.pressreader.com/uk/south-wales-evening-post/20250904/page/3).
