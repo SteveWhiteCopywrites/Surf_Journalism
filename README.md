@@ -26,7 +26,7 @@ https://www.wsf.wales/news/welsh-surfers-selected-to-represent-great-britain-at-
 
 ## Selected Articles
 
-### Welsh Surf Trio Target Success in Morocco
+### Surfing Trio Hoping to Ride Wave of Success in Africa
 Regional press coverage featuring Welsh surfers competing on the World Surf League Qualifying Series in Morocco.
 
 Read on: 
