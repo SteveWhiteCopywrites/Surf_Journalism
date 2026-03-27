@@ -66,9 +66,9 @@ Date: 4 September 2025
 <img src="images/patlogan.png" width="600">
 
 ### Welsh Surfing Federation – 2025 in Review
-A year-in-review feature highlighting the achievements of Welsh surfers and the Welsh Surfing Federation across domestic and international competition during the 2025 season, including major performances from athletes such as Llywelyn “Sponge” Williams and Patrick Langdon-Dark.
+Below is a snapshot of my year-in-review feature highlighting the achievements of Welsh surfers and the Welsh Surfing Federation across domestic and international competition during the 2025 season, including major performances from athletes such as Llywelyn “Sponge” Williams and Patrick Langdon-Dark.
 
-Read on:
+Read in full on:
 [Welsh Sports Association](https://wsa.wales/welsh-surfing-federation-2025-in-review/); 
 [WSF Website](https://www.wsf.wales/news/grom-presentation-night-caps-a-great-2025-for-welsh-surfing)
 
