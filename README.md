@@ -24,7 +24,6 @@ https://www.carvemag.com/2025/05/get-ready-for-the-welsh-2025/
 Published in *South Wales Evening Post*. News feature announcing the selection of Patrick Langdon-Dark and Logan Nicol to compete for Team GB at the ISA World Surfing Games in El Salvador.
 https://www.wsf.wales/news/welsh-surfers-selected-to-represent-great-britain-at-2025-isa-world-surfing-games
 
-
 ## Selected Articles
 
 ### Llywelyn Williams Four-Time World Para Surf Champ
@@ -37,9 +36,9 @@ News feature covering Welsh para-surfing champion Llywelyn “Sponge” Williams
 
 Read the full article on the [WSF website](https://www.carvemag.com/2025/11/llywelyn-williams-four-time-world-para-surf-champ/).  
 
-<img src="images/Sponge1" width="600">
+<img src="images/Sponge1.png" width="600">
 
-<img src="images/Sponge2" width="600">
+<img src="images/Sponge2.png" width="600">
 
 ![Article header](Sponge_world_champ_header.png)
 
