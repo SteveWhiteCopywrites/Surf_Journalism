@@ -66,15 +66,16 @@ Read on:
 
 ### Welsh Surfing Federation – 2025 in Review
 
-Publication: Welsh Sports Association (WSA)  
-Date: February 2026  
-Role: Journalist / writer  
+Publication: Welsh Sports Association (WSA) & Welsh Surfing Federation  
+Date: 4 Feb 2026  
 
 A year-in-review feature highlighting the achievements of Welsh surfers and the Welsh Surfing Federation across domestic and international competition during the 2025 season, including major performances from athletes such as Llywelyn “Sponge” Williams and Patrick Langdon-Dark. 
 
-Read the full article:  
-https://wsa.wales/welsh-surfing-federation-2025-in-review/
-![Article header](wsf_year_review_header.png)
+Read on:
+[Welsh Sports Association](https://wsa.wales/welsh-surfing-federation-2025-in-review/); 
+[WSF Website](https://www.wsf.wales/news/grom-presentation-night-caps-a-great-2025-for-welsh-surfing)
+
+<img src="images/WSAYearinReview.png" width="600">
 
 ### So Sick! The Return of the Toxic Trophy
 
