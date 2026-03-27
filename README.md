@@ -35,9 +35,9 @@ Read on:
 Publication: Welsh Surfing Federation and *South Wales Evening Post* (print)
 Date: March 2026
 
-<img src="images/trio1.png" width="600">
+<img src="images/Trio1.png" width="600">
 
-<img src="images/trio2.png" width="600">
+<img src="images/Trio2.png" width="600">
 
 ### Llywelyn Williams Four-Time World Para Surf Champ
 
