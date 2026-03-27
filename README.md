@@ -32,7 +32,7 @@ Regional press coverage featuring Welsh surfers competing on the World Surf Leag
 Read on: 
 [WSF website](https://www.wsf.wales/news/welsh-surfers-selected-to-represent-great-britain-at-2025-isa-world-surfing-games); [Pressreader](https://www.pressreader.com/uk/south-wales-evening-post/20260324/page/35)
 
-Publication: *South Wales Evening Post* (print) and Welsh Surfing Federation
+Publication: *South Wales Evening Post* (print) and Welsh Surfing Federation.
 
 Date: 22 March 2026
 
@@ -44,7 +44,8 @@ Date: 22 March 2026
 News feature covering Welsh para-surfing champion Llywelyn “Sponge” Williams after securing his fourth ISA World Para Surfing Championship title in Oceanside, California.
 Read on [Carve Magazine](https://www.carvemag.com/2025/09/llywelyn-williams-aasp-world-tour-champion/); [WSF website](https://www.carvemag.com/2025/11/llywelyn-williams-four-time-world-para-surf-champ/).
 
-Publication: Welsh Surfing Federation and Carve Magazine
+Publication: Welsh Surfing Federation and Carve Magazine.
+
 Date: 25 Sept 2025
 
 <img src="images/Sponge1.png" width="600">
