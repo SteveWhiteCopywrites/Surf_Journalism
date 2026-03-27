@@ -56,24 +56,24 @@ Date: 25 Sept 2025
 ### Welsh Surfers Selected to Represent Great Britain at the 2025 ISA World Surfing Games
 The news feature announces the selection of Welsh surfers Patrick Langdon-Dark and Logan Nicol to represent Great Britain at the 2025 ISA World Surfing Games in Surf City, El Salvador — a key event on the international surfing calendar and an important step toward Olympic qualification for the LA 2028 Games.
 
-Publication: *South Wales Evening Post* (print) & Welsh Surfing Federation
-Date: 4 September 2025
-
 Read on: 
 [WSF website](https://www.wsf.wales/news/welsh-surfers-selected-to-represent-great-britain-at-2025-isa-world-surfing-games); [Pressreader](https://www.pressreader.com/uk/south-wales-evening-post/20250904/page/3)
+
+Publication: *South Wales Evening Post* (print) & Welsh Surfing Federation
+Date: 4 September 2025
 
 <img src="images/patlogan.png" width="600">
 
 ### Welsh Surfing Federation – 2025 in Review
-
-Publication: Welsh Sports Association (WSA) & Welsh Surfing Federation  
-Date: 4 Feb 2026  
-
-A year-in-review feature highlighting the achievements of Welsh surfers and the Welsh Surfing Federation across domestic and international competition during the 2025 season, including major performances from athletes such as Llywelyn “Sponge” Williams and Patrick Langdon-Dark. 
+A year-in-review feature highlighting the achievements of Welsh surfers and the Welsh Surfing Federation across domestic and international competition during the 2025 season, including major performances from athletes such as Llywelyn “Sponge” Williams and Patrick Langdon-Dark.
 
 Read on:
 [Welsh Sports Association](https://wsa.wales/welsh-surfing-federation-2025-in-review/); 
 [WSF Website](https://www.wsf.wales/news/grom-presentation-night-caps-a-great-2025-for-welsh-surfing)
+
+Publication: Welsh Sports Association (WSA) & Welsh Surfing Federation  
+
+Date: 4 Feb 2026   
 
 <img src="images/WSAYearinReview.png" width="600">
 
