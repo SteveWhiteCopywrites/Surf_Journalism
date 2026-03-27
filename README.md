@@ -60,6 +60,7 @@ Read on:
 [WSF website](https://www.wsf.wales/news/welsh-surfers-selected-to-represent-great-britain-at-2025-isa-world-surfing-games); [Pressreader](https://www.pressreader.com/uk/south-wales-evening-post/20250904/page/3)
 
 Publication: *South Wales Evening Post* (print) & Welsh Surfing Federation
+
 Date: 4 September 2025
 
 <img src="images/patlogan.png" width="600">
