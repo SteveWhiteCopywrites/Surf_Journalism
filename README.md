@@ -50,6 +50,7 @@ The news feature announces the selection of Welsh surfers Patrick Langdon-Dark a
 
 Read on: 
 [WSF website](https://www.wsf.wales/news/welsh-surfers-selected-to-represent-great-britain-at-2025-isa-world-surfing-games).
+
 [Pressreader](https://www.pressreader.com/uk/south-wales-evening-post/20250904/page/3).
 
 <img src="images/patlogan.png" width="600">
