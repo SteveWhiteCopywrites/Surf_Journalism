@@ -2,7 +2,7 @@
 A curated portfolio of surf journalism by Steve White covering Welsh competitions, athlete profiles and the wider UK surf scene.
 
 Publications include: 
-South Wales Evening Post; Carve Magazine; Wavelength Magazine; The Inertia; Welsh Surfing Federation; The Inertia; Welsh Sports Association.
+South Wales Evening Post; Carve Magazine; Wavelength Magazine; The Inertia; Welsh Surfing Federation; Welsh Sports Association.
 
 Topics include: competition coverage; athlete profiles; athlete interviews; Welsh surf scene; event reporting
 
