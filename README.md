@@ -48,7 +48,9 @@ Role: Journalist
 
 The news feature announces the selection of Welsh surfers Patrick Langdon-Dark and Logan Nicol to represent Great Britain at the 2025 ISA World Surfing Games in Surf City, El Salvador — a key event on the international surfing calendar and an important step toward Olympic qualification for the LA 2028 Games.
 
-Read on the [WSF website](https://www.wsf.wales/news/welsh-surfers-selected-to-represent-great-britain-at-2025-isa-world-surfing-games). Read on [Pressreader](https://www.pressreader.com/uk/south-wales-evening-post/20250904/page/3).
+Read on: 
+[WSF website](https://www.wsf.wales/news/welsh-surfers-selected-to-represent-great-britain-at-2025-isa-world-surfing-games).
+[Pressreader](https://www.pressreader.com/uk/south-wales-evening-post/20250904/page/3).
 
 <img src="images/patlogan.png" width="600">
 
