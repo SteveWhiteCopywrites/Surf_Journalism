@@ -32,7 +32,9 @@ Regional press coverage featuring Welsh surfers competing on the World Surf Leag
 Read on: 
 [WSF website](https://www.wsf.wales/news/welsh-surfers-selected-to-represent-great-britain-at-2025-isa-world-surfing-games); [Pressreader](https://www.pressreader.com/uk/south-wales-evening-post/20260324/page/35)
 
-Publication: *South Wales Evening Post* (print) and Welsh Surfing Federation, March 2026
+Publication: *South Wales Evening Post* (print) and Welsh Surfing Federation
+
+Date: 22 March 2026
 
 <img src="images/Trio1.png" width="600">
 
@@ -43,7 +45,7 @@ News feature covering Welsh para-surfing champion Llywelyn “Sponge” Williams
 Read on [Carve Magazine](https://www.carvemag.com/2025/09/llywelyn-williams-aasp-world-tour-champion/); [WSF website](https://www.carvemag.com/2025/11/llywelyn-williams-four-time-world-para-surf-champ/).
 
 Publication: Welsh Surfing Federation and Carve Magazine
-Date: Sept 2025
+Date: 25 Sept 2025
 
 <img src="images/Sponge1.png" width="600">
 
@@ -53,7 +55,7 @@ Date: Sept 2025
 The news feature announces the selection of Welsh surfers Patrick Langdon-Dark and Logan Nicol to represent Great Britain at the 2025 ISA World Surfing Games in Surf City, El Salvador — a key event on the international surfing calendar and an important step toward Olympic qualification for the LA 2028 Games.
 
 Publication: Welsh Surfing Federation and *South Wales Evening Post* (print)
-Date: September 2025  
+Date: 4 September 2025
 
 Read on: 
 [WSF website](https://www.wsf.wales/news/welsh-surfers-selected-to-represent-great-britain-at-2025-isa-world-surfing-games); [Pressreader](https://www.pressreader.com/uk/south-wales-evening-post/20250904/page/3).
