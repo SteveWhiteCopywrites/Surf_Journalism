@@ -37,6 +37,10 @@ News feature covering Welsh para-surfing champion Llywelyn “Sponge” Williams
 
 Read the full article on the [WSF website](https://www.carvemag.com/2025/11/llywelyn-williams-four-time-world-para-surf-champ/).  
 
+<img src="images/Sponge1" width="600">
+
+<img src="images/Sponge2" width="600">
+
 ![Article header](Sponge_world_champ_header.png)
 
 ![Article header](Sponge_world_champ_body.png)
