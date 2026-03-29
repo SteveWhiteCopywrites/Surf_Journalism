@@ -38,7 +38,7 @@ Read on [WSF website](https://www.wsf.wales/news/welsh-surfers-selected-to-repre
 <img src="images/Trio2.png" width="600">
 
 ### Llywelyn Williams Four-Time World Para Surf Champ
-25 Sept 2025: News feature covering Welsh para-surfing champion Llywelyn “Sponge” Williams after securing his fourth ISA World Para Surfing Championship title in Oceanside, California.
+**25 Sept 2025:** News feature covering Welsh para-surfing champion Llywelyn “Sponge” Williams after securing his fourth ISA World Para Surfing Championship title in Oceanside, California.
 
 Read on [Carve Magazine](https://www.carvemag.com/2025/09/llywelyn-williams-aasp-world-tour-champion/); [WSF website](https://www.carvemag.com/2025/11/llywelyn-williams-four-time-world-para-surf-champ/)
 
@@ -56,7 +56,7 @@ Print publication: *South Wales Evening Post*
 <img src="images/patlogan.png" width="600">
 
 ### Welsh Surfing Federation – 2025 in Review
-4 Feb 2026: A snapshot of my year-in-review feature highlighting the achievements of Welsh surfers and the Welsh Surfing Federation across domestic and international competition during the 2025 season, including major performances from athletes such as Llywelyn “Sponge” Williams and Patrick Langdon-Dark.
+**4 Feb 2026:** A snapshot of my year-in-review feature highlighting the achievements of Welsh surfers and the Welsh Surfing Federation across domestic and international competition during the 2025 season, including major performances from athletes such as Llywelyn “Sponge” Williams and Patrick Langdon-Dark.
 
 Read in full on [Welsh Sports Association](https://wsa.wales/welsh-surfing-federation-2025-in-review/); 
 [WSF Website](https://www.wsf.wales/news/grom-presentation-night-caps-a-great-2025-for-welsh-surfing)
@@ -64,7 +64,7 @@ Read in full on [Welsh Sports Association](https://wsa.wales/welsh-surfing-feder
 <img src="images/WSAYearinReview.png" width="600">
 
 ### So Sick! The Return of the Toxic Trophy
-4 October 2024: A feature preview covering the return of the legendary Toxic Trophy at Langland Bay, organised by Langland Board Riders and Surfers Against Sewage. The article explores the history of the contest, its environmental roots, and the ongoing issue of water quality in Welsh coastal waters, featuring comment from Surfers Against Sewage CEO, Giles Bristow, environmental campaigner Chris Hines MBE, and Welsh Water.
+**4 October 2024:** A feature preview covering the return of the legendary Toxic Trophy at Langland Bay, organised by Langland Board Riders and Surfers Against Sewage. The article explores the history of the contest, its environmental roots, and the ongoing issue of water quality in Welsh coastal waters, featuring comment from Surfers Against Sewage CEO, Giles Bristow, environmental campaigner Chris Hines MBE, and Welsh Water.
 
 Read on: [Carve Magazine](https://www.carvemag.com/2024/10/so-sick-the-return-of-the-toxic-trophy/)
 
@@ -73,7 +73,7 @@ Read on: [Carve Magazine](https://www.carvemag.com/2024/10/so-sick-the-return-of
 <img src="images/Toxic2.png" width="600">
 
 ### Get Ready for The Welsh 2025
-14 May 2025: A preview of the PuraVida MiPost Welsh National Surfing Championships at Freshwater West, highlighting the history and prestige of “The Welsh”. Includes interviews with 2024 champions Logan Nicol and Josie Hawke who discuss their preparation and ambitions for the 2025 contest.
+**14 May 2025:** A preview of the PuraVida MiPost Welsh National Surfing Championships at Freshwater West, highlighting the history and prestige of “The Welsh”. Includes interviews with 2024 champions Logan Nicol and Josie Hawke who discuss their preparation and ambitions for the 2025 contest.
 
 Read on [Carve Magazine](https://www.carvemag.com/2025/05/get-ready-for-the-welsh-2025/)
 
@@ -82,14 +82,14 @@ Read on [Carve Magazine](https://www.carvemag.com/2025/05/get-ready-for-the-wels
 ![Opening paragraphs](Welsh_preview_body.png)
 
 ### Team England Dominate to Take the GB Cup 2023
-30 Oct 2023: Competition report from the GB Cup held at Fistral Beach, Newquay, where Team England secured the overall team title ahead of Wales, Scotland and the Channel Islands. The event saw standout performances from England’s Stanley Norman and Lauren Sandland, while Wales’ Patrick Langdon-Dark finished runner-up in the men’s final.
+**30 Oct 2023:** Competition report from the GB Cup held at Fistral Beach, Newquay, where Team England secured the overall team title ahead of Wales, Scotland and the Channel Islands. The event saw standout performances from England’s Stanley Norman and Lauren Sandland, while Wales’ Patrick Langdon-Dark finished runner-up in the men’s final.
 
 Read on [Welsh Surfing Federation](https://www.wsf.wales/news/team-england-dominate-to-take-the-gb-cup-2023-)  
 
 ![Article header](GBCUP_header.png)
 
 ### Gromageddon Takes Langland by Storm
-7 Nov 2025: Competition report from Langland Bay where Wales’ top junior surfers gathered for the Gromageddon event hosted by Langland Board Riders. The contest marked the final stop of the Welsh Surfing Federation Junior Surf Series, with young surfers competing across multiple age divisions in lively 2–4ft surf while spectators lined the promenade to watch the next generation of Welsh talent in action.
+**7 Nov 2025:** Competition report from Langland Bay where Wales’ top junior surfers gathered for the Gromageddon event hosted by Langland Board Riders. The contest marked the final stop of the Welsh Surfing Federation Junior Surf Series, with young surfers competing across multiple age divisions in lively 2–4ft surf while spectators lined the promenade to watch the next generation of Welsh talent in action.
 
 Read on [Carve Magazine](https://www.carvemag.com/2025/11/gromageddon-takes-langland-by-storm/)
 
