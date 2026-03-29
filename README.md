@@ -32,7 +32,7 @@ Regional press coverage featuring Welsh surfers competing on the World Surf Leag
 Read on: 
 [WSF website](https://www.wsf.wales/news/welsh-surfers-selected-to-represent-great-britain-at-2025-isa-world-surfing-games); [Pressreader](https://www.pressreader.com/uk/south-wales-evening-post/20260324/page/35)
 
-Print publication: *South Wales Evening Post*; Online: Welsh Surfing Federation
+Print publication: *South Wales Evening Post*
 
 Date: 22 March 2026
 
@@ -44,8 +44,6 @@ Date: 22 March 2026
 News feature covering Welsh para-surfing champion Llywelyn “Sponge” Williams after securing his fourth ISA World Para Surfing Championship title in Oceanside, California.
 
 Read on [Carve Magazine](https://www.carvemag.com/2025/09/llywelyn-williams-aasp-world-tour-champion/); [WSF website](https://www.carvemag.com/2025/11/llywelyn-williams-four-time-world-para-surf-champ/)
-
-Online publications: Welsh Surfing Federation & Carve Magazine
 
 Date: 25 Sept 2025
 
@@ -59,7 +57,7 @@ The news feature announces the selection of Welsh surfers Patrick Langdon-Dark a
 Read on: 
 [WSF website](https://www.wsf.wales/news/welsh-surfers-selected-to-represent-great-britain-at-2025-isa-world-surfing-games); [Pressreader](https://www.pressreader.com/uk/south-wales-evening-post/20250904/page/3)
 
-Print publication: *South Wales Evening Post*; Online: Welsh Surfing Federation
+Print publication: *South Wales Evening Post*
 
 Date: 4 September 2025
 
@@ -72,8 +70,6 @@ Read in full on:
 [Welsh Sports Association](https://wsa.wales/welsh-surfing-federation-2025-in-review/); 
 [WSF Website](https://www.wsf.wales/news/grom-presentation-night-caps-a-great-2025-for-welsh-surfing)
 
-Online publications: Welsh Sports Association (WSA) & Welsh Surfing Federation
-
 Date: 4 Feb 2026   
 
 <img src="images/WSAYearinReview.png" width="600">
@@ -82,8 +78,6 @@ Date: 4 Feb 2026
 Feature preview covering the return of the legendary Toxic Trophy at Langland Bay, organised by Langland Board Riders and Surfers Against Sewage. The article explores the history of the contest, its environmental roots, and the ongoing issue of water quality in Welsh coastal waters, featuring comment from Surfers Against Sewage CEO, Giles Bristow, environmental campaigner Chris Hines MBE, and Welsh Water.
 
 Read on: [Carve Magazine](https://www.carvemag.com/2024/10/so-sick-the-return-of-the-toxic-trophy/)
-
-Online publication: Carve Magazine
 
 Date: 4 October 2024
 
@@ -95,8 +89,6 @@ Date: 4 October 2024
 Preview feature ahead of the PuraVida MiPost Welsh National Surfing Championships at Freshwater West, highlighting the history and prestige of “The Welsh” and featuring interviews with reigning champions Logan Nicol and Josie Hawke discussing their preparation and ambitions for the 2025 contest.
 
 Read on: [Carve Magazine](https://www.carvemag.com/2025/05/get-ready-for-the-welsh-2025/)
-
-Online publication: Carve Magazine  
 
 Date: May 2025  
 
