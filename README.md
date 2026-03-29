@@ -79,15 +79,12 @@ Date: 4 Feb 2026
 <img src="images/WSAYearinReview.png" width="600">
 
 ### So Sick! The Return of the Toxic Trophy
-
-Publication: Carve Magazine  
-Date: October 2024  
-Role: Journalist / writer  
-
 Feature preview covering the return of the legendary Toxic Trophy at Langland Bay, organised by Langland Board Riders and Surfers Against Sewage. The article explores the history of the contest, its environmental roots, and the ongoing issue of water quality in Welsh coastal waters, featuring comment from Surfers Against Sewage CEO, Giles Bristow, environmental campaigner Chris Hines MBE, and Welsh Water.
 
-Read the full article:  
-https://www.carvemag.com/2024/10/so-sick-the-return-of-the-toxic-trophy/
+Read on: [Carve Magazine](https://www.carvemag.com/2024/10/so-sick-the-return-of-the-toxic-trophy/)
+
+Date: 4 October 2024 
+
 ![Article header](Toxic_trophy_header.png)
 
 ![Opening paragraphs](Toxic_trophy_body.png)
