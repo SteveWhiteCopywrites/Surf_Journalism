@@ -32,8 +32,7 @@ Regional press coverage featuring Welsh surfers competing on the World Surf Leag
 Read on: 
 [WSF website](https://www.wsf.wales/news/welsh-surfers-selected-to-represent-great-britain-at-2025-isa-world-surfing-games); [Pressreader](https://www.pressreader.com/uk/south-wales-evening-post/20260324/page/35)
 
-Print publication: *South Wales Evening Post*
-Online: Welsh Surfing Federation
+Print publication: *South Wales Evening Post*; Online: Welsh Surfing Federation
 
 Date: 22 March 2026
 
@@ -60,8 +59,7 @@ The news feature announces the selection of Welsh surfers Patrick Langdon-Dark a
 Read on: 
 [WSF website](https://www.wsf.wales/news/welsh-surfers-selected-to-represent-great-britain-at-2025-isa-world-surfing-games); [Pressreader](https://www.pressreader.com/uk/south-wales-evening-post/20250904/page/3)
 
-Print publication: *South Wales Evening Post* 
-Online: Welsh Surfing Federation
+Print publication: *South Wales Evening Post*; Online: Welsh Surfing Federation
 
 Date: 4 September 2025
 
@@ -94,15 +92,13 @@ Date: 4 October 2024
 <img src="images/Toxic2.png" width="600">
 
 ### Get Ready for The Welsh 2025
-
-Publication: Carve Magazine  
-Date: May 2025  
-Role: Journalist / writer  
-
 Preview feature ahead of the PuraVida MiPost Welsh National Surfing Championships at Freshwater West, highlighting the history and prestige of “The Welsh” and featuring interviews with reigning champions Logan Nicol and Josie Hawke discussing their preparation and ambitions for the 2025 contest.
 
-Read the full article:  
-https://www.carvemag.com/2025/05/get-ready-for-the-welsh-2025/
+Read on: [Carve Magazine](https://www.carvemag.com/2025/05/get-ready-for-the-welsh-2025/)
+
+Online publication: Carve Magazine  
+
+Date: May 2025  
 
 ![Article header](Welsh_preview_header.png)
 
