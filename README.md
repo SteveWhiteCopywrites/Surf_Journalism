@@ -83,11 +83,11 @@ Feature preview covering the return of the legendary Toxic Trophy at Langland Ba
 
 Read on: [Carve Magazine](https://www.carvemag.com/2024/10/so-sick-the-return-of-the-toxic-trophy/)
 
-Date: 4 October 2024 
+Date: 4 October 2024
 
-![Article header](Toxic_trophy_header.png)
+<img src="images/Toxic1.png" width="600">
 
-![Opening paragraphs](Toxic_trophy_body.png)
+<img src="images/Toxic2.png" width="600">
 
 ### Get Ready for The Welsh 2025
 
