@@ -27,7 +27,7 @@ https://www.wsf.wales/news/welsh-surfers-selected-to-represent-great-britain-at-
 ## Selected Articles
 
 ### Surfing Trio Hoping to Ride Wave of Success in Africa
-**22 March 2026** Regional press coverage featuring Welsh surfers competing on the World Surf League Qualifying Series in Morocco.
+**22 March 2026**: Regional press coverage featuring Welsh surfers competing on the World Surf League Qualifying Series in Morocco.
 
 Print publication: *South Wales Evening Post*
 
