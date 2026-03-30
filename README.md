@@ -6,7 +6,7 @@ South Wales Evening Post; Carve Magazine; Wavelength Magazine; The Inertia; Wels
 
 Topics include: competition coverage; athlete profiles; athlete interviews; Welsh surf scene; event reporting.
 
-- ## Featured Work
+## Featured Work
 
 • **Llywelyn “Sponge” Williams – Four-Time World Para Surf Champion**  
 Carve Magazine feature on Wales’ four-time ISA World Para Surfing Champion.  
@@ -26,7 +26,7 @@ https://www.wsf.wales/news/welsh-surfers-selected-to-represent-great-britain-at-
 
 ## Selected Articles
 
-### Surfing Trio Hoping to Ride Wave of Success in Africa
+- ### Surfing Trio Hoping to Ride Wave of Success in Africa
 **22 March 2026:** Regional press coverage featuring Welsh surfers competing on the World Surf League Qualifying Series in Morocco.
 
 Print publication: *South Wales Evening Post*
