@@ -77,25 +77,23 @@ Read on: [Carve Magazine](https://www.carvemag.com/2024/10/so-sick-the-return-of
 
 Read on [Carve Magazine](https://www.carvemag.com/2025/05/get-ready-for-the-welsh-2025/)
 
-![Article header](Welsh_preview_header.png)
+<img src="images/welshprev25a.png" width="600">
 
-![Opening paragraphs](Welsh_preview_body.png)
+<img src="images/welshprev25a.png" width="600">
 
 ### Team England Dominate to Take the GB Cup 2023
 **30 Oct 2023:** Competition report from the GB Cup held at Fistral Beach, Newquay, where Team England secured the overall team title ahead of Wales, Scotland and the Channel Islands. The event saw standout performances from England’s Stanley Norman and Lauren Sandland, while Wales’ Patrick Langdon-Dark finished runner-up in the men’s final.
 
 Read on [Welsh Surfing Federation](https://www.wsf.wales/news/team-england-dominate-to-take-the-gb-cup-2023-)  
 
-![Article header](GBCUP_header.png)
+<img src="images/gbcup23.png" width="600">
 
 ### Gromageddon Takes Langland by Storm
 **7 Nov 2025:** Competition report from Langland Bay where Wales’ top junior surfers gathered for the Gromageddon event hosted by Langland Board Riders. The contest marked the final stop of the Welsh Surfing Federation Junior Surf Series, with young surfers competing across multiple age divisions in lively 2–4ft surf while spectators lined the promenade to watch the next generation of Welsh talent in action.
 
 Read on [Carve Magazine](https://www.carvemag.com/2025/11/gromageddon-takes-langland-by-storm/)
 
-![Article header](Grom_header.png)
-
-![Opening paragraphs](Grom_body.png)
+<img src="images/Gromageddon1.png" width="600">
 
 ### DIY SOS, Good Vibes
 
