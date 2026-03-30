@@ -96,40 +96,25 @@ Read on [Carve Magazine](https://www.carvemag.com/2025/11/gromageddon-takes-lang
 <img src="images/Gromageddon1.png" width="600">
 
 ### DIY SOS, Good Vibes
+**11 Nov 2020:** News feature covering the opening of Surfability UK’s purpose-built adaptive surf facility at Caswell Bay following a BBC DIY SOS Big Build project supported by Children in Need. The article highlights the work of Surfability founder Ben Clifford and the organisation’s mission to help surfers with physical and cognitive impairments to experience the freedom of riding waves. Exclusive comment from DIY SOS presenter, Nick Knowles.
 
-Publication: Carve Magazine  
-Date: November 2020  
-Role: Journalist / writer  
+Read on [Carve Magazine](https://www.carvemag.com/2020/11/diy-sos-good-vibes/)
 
-News feature covering the opening of Surfability UK’s purpose-built adaptive surf facility at Caswell Bay following a BBC DIY SOS Big Build project supported by Children in Need. The article highlights the work of Surfability founder Ben Clifford and the organisation’s mission to help surfers with physical and cognitive impairments experience the freedom of riding waves. Exclusive comment from DIY SOS presenter, Nick Knowles.
-
-Read the full article:  
-https://www.carvemag.com/2020/11/diy-sos-good-vibes/
-
-![Article header](DIYSOS_header.png)
+<img src="images/DIYSOS.png" width="600">
 
 ### Meet Swansea Super-Grom & British U18 Champ Patrick Langdon-Dark
+**15 Dec 2017:** Snapshot of my interview with Welsh surfer Patrick Langdon-Dark following his rise through the UK junior ranks, including his U18 UK Pro Surf Tour title and success on the Nerf Clash of the Groms series. The conversation explores his training regime, early surfing influences on Gower, competitive ambitions and the challenge of balancing education with a developing international surf career.
 
-Publication: Wavelength Magazine  
-Date: December 2017  
-Role: Journalist / writer  
+Read in full on [Wavelength Magazine](https://wavelengthmag.com/interview-patrick-langdon-dark/)
 
-Interview with Welsh surfer Patrick Langdon-Dark following his rise through the UK junior ranks, including his U18 UK Pro Surf Tour title and success on the Nerf Clash of the Groms series. The conversation explores his training regime, early surfing influences on Gower, competitive ambitions and the challenge of balancing education with a developing international surf career.
-
-Read the full article:  
-https://wavelengthmag.com/interview-patrick-langdon-dark/
-
-![Article header](pld_header.png)
+<img src="images/supergrom.png" width="600">
 
 ### From the Quest for Sponsorship to the Hunt for the World’s Biggest Waves
+**23 Nov 2015:** Snapshot of my interview with British big-wave surfer Andrew Cotton following the release of his film *Behind The Lines*. The conversation explores the realities of chasing giant waves at Nazaré and Mullaghmore, the challenge of securing sponsorship and funding for big-wave projects, and the physical and mental demands of pushing the limits of modern big-wave surfing. 
 
-Publication: The Inertia  
-Date: November 2015  
-Role: Journalist / writer  
+Read in full on [The Inertia](https://www.theinertia.com/surf/from-the-quest-for-sponsorship-to-the-hunt-for-the-worlds-biggest-waves/
+)
 
-Interview feature with British big-wave surfer Andrew Cotton following the release of his film *Behind The Lines*. The conversation explores the realities of chasing giant waves at Nazaré and Mullaghmore, the challenge of securing sponsorship and funding for big-wave projects, and the physical and mental demands of pushing the limits of modern big-wave surfing.
+<img src="images/Cotty1.png" width="600">
 
-Read the full article:  
-https://www.theinertia.com/surf/from-the-quest-for-sponsorship-to-the-hunt-for-the-worlds-biggest-waves/
-
-![Article header](Cotty_header.png)
+<img src="images/Cotty2.png" width="600">
