@@ -47,7 +47,7 @@ Read on [Carve Magazine](https://www.carvemag.com/2025/09/llywelyn-williams-aasp
 <img src="images/Sponge2.png" width="600">
 
 ### Welsh Surfers Selected to Represent Great Britain at the 2025 ISA World Surfing Games
-4 September 2025: News feature announcing the selection of Welsh surfers Patrick Langdon-Dark and Logan Nicol to represent Great Britain at the 2025 ISA World Surfing Games in Surf City, El Salvador — a key event on the international surfing calendar and an important step toward Olympic qualification for the LA 2028 Games.
+**4 September 2025:** News feature announcing the selection of Welsh surfers Patrick Langdon-Dark and Logan Nicol to represent Great Britain at the 2025 ISA World Surfing Games in Surf City, El Salvador — a key event on the international surfing calendar and an important step toward Olympic qualification for the LA 2028 Games.
 
 Read on [WSF website](https://www.wsf.wales/news/welsh-surfers-selected-to-represent-great-britain-at-2025-isa-world-surfing-games); [Pressreader](https://www.pressreader.com/uk/south-wales-evening-post/20250904/page/3)
 
