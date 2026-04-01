@@ -17,7 +17,7 @@ Read on [Pressreader](https://www.wsf.wales/news/welsh-surfers-selected-to-repre
 
 • **Llywelyn “Sponge” Williams – Four-Time World Para Surf Champion**  
 Carve Magazine feature on Wales’ four-time ISA World Para Surfing Champion.  
-Read on [Carve Magazine](https://www.carvemag.com/2025/11/llywelyn-williams-four-time-world-para-surf-champ/) | [WSF Website](https://www.wsf.wales/news/httpswwwwsfwalesnewsllywelyn-sponge-williams-fourth-world-para-surfing-title)
+Read on [Carve Magazine](https://www.carvemag.com/2025/11/llywelyn-williams-four-time-world-para-surf-champ/) | [WSF website](https://www.wsf.wales/news/httpswwwwsfwalesnewsllywelyn-sponge-williams-fourth-world-para-surfing-title)
 
 • **So Sick! The Return of the Toxic Trophy**  
 Feature preview exploring the environmental roots of Langland’s iconic protest contest.  
@@ -30,7 +30,7 @@ Read on [Carve Magazine](https://www.carvemag.com/2024/10/so-sick-the-return-of-
 
 Print publication: *South Wales Evening Post*
 
-Read on [WSF website](https://www.wsf.wales/news/welsh-surfers-selected-to-represent-great-britain-at-2025-isa-world-surfing-games); [Pressreader](https://www.pressreader.com/uk/south-wales-evening-post/20260324/page/35)
+Read on [WSF website](https://www.wsf.wales/news/welsh-surfers-selected-to-represent-great-britain-at-2025-isa-world-surfing-games) | [Pressreader](https://www.pressreader.com/uk/south-wales-evening-post/20260324/page/35)
 
 <img src="images/Trio1.png" width="600">
 
@@ -39,7 +39,7 @@ Read on [WSF website](https://www.wsf.wales/news/welsh-surfers-selected-to-repre
 ### Llywelyn Williams Four-Time World Para Surf Champ
 **25 Sept 2025:** News feature covering Welsh para-surfing champion Llywelyn “Sponge” Williams after securing his fourth ISA World Para Surfing Championship title in Oceanside, California.
 
-Read on [Carve Magazine](https://www.carvemag.com/2025/09/llywelyn-williams-aasp-world-tour-champion/); [WSF website](https://www.carvemag.com/2025/11/llywelyn-williams-four-time-world-para-surf-champ/)
+Read on [Carve Magazine](https://www.carvemag.com/2025/09/llywelyn-williams-aasp-world-tour-champion/) | [WSF website](https://www.carvemag.com/2025/11/llywelyn-williams-four-time-world-para-surf-champ/)
 
 <img src="images/Sponge1.png" width="600">
 
@@ -48,7 +48,7 @@ Read on [Carve Magazine](https://www.carvemag.com/2025/09/llywelyn-williams-aasp
 ### Welsh Surfers Selected to Represent Great Britain at the 2025 ISA World Surfing Games
 **4 September 2025:** News feature announcing the selection of Welsh surfers Patrick Langdon-Dark and Logan Nicol to represent Great Britain at the 2025 ISA World Surfing Games in Surf City, El Salvador — a key event on the international surfing calendar and an important step toward Olympic qualification for the LA 2028 Games.
 
-Read on [WSF website](https://www.wsf.wales/news/welsh-surfers-selected-to-represent-great-britain-at-2025-isa-world-surfing-games); [Pressreader](https://www.pressreader.com/uk/south-wales-evening-post/20250904/page/3)
+Read on [WSF website](https://www.wsf.wales/news/welsh-surfers-selected-to-represent-great-britain-at-2025-isa-world-surfing-games) | [Pressreader](https://www.pressreader.com/uk/south-wales-evening-post/20250904/page/3)
 
 Print publication: *South Wales Evening Post*
 
@@ -57,8 +57,7 @@ Print publication: *South Wales Evening Post*
 ### Welsh Surfing Federation – 2025 in Review
 **4 Feb 2026:** A snapshot of my year-in-review feature highlighting the achievements of Welsh surfers and the Welsh Surfing Federation across domestic and international competition during the 2025 season, including major performances from athletes such as Llywelyn “Sponge” Williams and Patrick Langdon-Dark.
 
-Read in full on [Welsh Sports Association](https://wsa.wales/welsh-surfing-federation-2025-in-review/); 
-[WSF Website](https://www.wsf.wales/news/grom-presentation-night-caps-a-great-2025-for-welsh-surfing)
+Read in full on [Welsh Sports Association](https://wsa.wales/welsh-surfing-federation-2025-in-review/) | [WSF website](https://www.wsf.wales/news/grom-presentation-night-caps-a-great-2025-for-welsh-surfing)
 
 <img src="images/WSAYearinReview.png" width="600">
 
@@ -90,7 +89,7 @@ Read on [Welsh Surfing Federation](https://www.wsf.wales/news/team-england-domin
 ### Gromageddon Takes Langland by Storm
 **7 Nov 2025:** Competition report from Langland Bay where Wales’ top junior surfers gathered for the Gromageddon event hosted by Langland Board Riders. The contest marked the final stop of the Welsh Surfing Federation Junior Surf Series, with young surfers competing across multiple age divisions in lively 2–4ft surf while spectators lined the promenade to watch the next generation of Welsh talent in action.
 
-Read on [Carve Magazine](https://www.carvemag.com/2025/11/gromageddon-takes-langland-by-storm/)
+Read on [Carve Magazine](https://www.carvemag.com/2025/11/gromageddon-takes-langland-by-storm/) | [WSF website](https://www.wsf.wales/news/welsh-groms-destroy-langland-surf-in-gromageddon)
 
 <img src="images/Gromageddon1.png" width="600">
 
