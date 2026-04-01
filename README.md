@@ -11,17 +11,17 @@ Topics include: competition coverage; athlete profiles; athlete interviews; Wels
 Regional press coverage featuring Welsh surfers competing on the World Surf League Qualifying Series in Morocco.  
 Read on [Pressreader](https://www.pressreader.com/uk/south-wales-evening-post/20260324/page/35)
 
+• **Welsh Surfers Selected to Represent Great Britain at the 2025 ISA World Surfing Games**  
+Published in *South Wales Evening Post*. News feature announcing the selection of Patrick Langdon-Dark and Logan Nicol to compete for Team GB at the ISA World Surfing Games in El Salvador.  
+Read on [Pressreader](https://www.wsf.wales/news/welsh-surfers-selected-to-represent-great-britain-at-2025-isa-world-surfing-games)
+
 • **Llywelyn “Sponge” Williams – Four-Time World Para Surf Champion**  
 Carve Magazine feature on Wales’ four-time ISA World Para Surfing Champion.  
-https://www.carvemag.com/2025/11/llywelyn-williams-four-time-world-para-surf-champ/
+Read on [Carve Magazine](https://www.carvemag.com/2025/11/llywelyn-williams-four-time-world-para-surf-champ/)
 
 • **So Sick! The Return of the Toxic Trophy**  
 Feature preview exploring the environmental roots of Langland’s iconic protest contest.  
-https://www.carvemag.com/2024/10/so-sick-the-return-of-the-toxic-trophy/
-
-• **Welsh Surfers Selected to Represent Great Britain at the 2025 ISA World Surfing Games**  
-Published in *South Wales Evening Post*. News feature announcing the selection of Patrick Langdon-Dark and Logan Nicol to compete for Team GB at the ISA World Surfing Games in El Salvador.
-https://www.wsf.wales/news/welsh-surfers-selected-to-represent-great-britain-at-2025-isa-world-surfing-games
+Read on [Carve Magazine](https://www.carvemag.com/2024/10/so-sick-the-return-of-the-toxic-trophy/)
 
 ## Selected Articles
 
