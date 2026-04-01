@@ -8,11 +8,11 @@ Topics include: competition coverage; athlete profiles; athlete interviews; Wels
 
 ## Featured Work
 • **Surfing Trio Hoping to Ride Wave of Success in Africa**  
-Evening Post coverage of Welsh surfers chasing qualification points on the WSL circuit in Morocco.  
+*South Wales Evening Post* coverage of Welsh surfers chasing qualification points on the WSL circuit in Morocco.  
 Read on [Pressreader](https://www.pressreader.com/uk/south-wales-evening-post/20260324/page/35)
 
 • **Welsh Surfers Selected to Represent Great Britain at the 2025 ISA World Surfing Games**  
-National team announcement featuring Langland Board Riders athletes heading to El Salvador.  
+*South Wales Evening Post* coverage of Welsh surfers heading to El Salvador with [GB Surfing](https://gbsurfing.com/).  
 Read on [Pressreader](https://www.wsf.wales/news/welsh-surfers-selected-to-represent-great-britain-at-2025-isa-world-surfing-games)
 
 • **Llywelyn “Sponge” Williams – Four-Time World Para Surf Champion**  
@@ -20,7 +20,7 @@ Carve Magazine feature on Wales’ dominant para-surfing world champion and his 
 Read on [Carve Magazine](https://www.carvemag.com/2025/11/llywelyn-williams-four-time-world-para-surf-champ/) | [WSF website](https://www.wsf.wales/news/httpswwwwsfwalesnewsllywelyn-sponge-williams-fourth-world-para-surfing-title)
 
 • **So Sick! The Return of the Toxic Trophy**  
-Preview feature exploring the environmental backstory of Langland’s infamous protest contest.  
+Preview feature exploring the environmental backstory of Langland’s contest designed to fight waterways pollution.  
 Read on [Carve Magazine](https://www.carvemag.com/2024/10/so-sick-the-return-of-the-toxic-trophy/)
 
 ## Selected Articles
