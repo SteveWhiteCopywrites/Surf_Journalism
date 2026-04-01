@@ -17,7 +17,7 @@ Read on [Pressreader](https://www.wsf.wales/news/welsh-surfers-selected-to-repre
 
 • **Llywelyn “Sponge” Williams – Four-Time World Para Surf Champion**  
 Carve Magazine feature on Wales’ four-time ISA World Para Surfing Champion.  
-Read on [Carve Magazine](https://www.carvemag.com/2025/11/llywelyn-williams-four-time-world-para-surf-champ/)
+Read on [Carve Magazine](https://www.carvemag.com/2025/11/llywelyn-williams-four-time-world-para-surf-champ/) | [WSF Website](https://www.wsf.wales/news/httpswwwwsfwalesnewsllywelyn-sponge-williams-fourth-world-para-surfing-title)
 
 • **So Sick! The Return of the Toxic Trophy**  
 Feature preview exploring the environmental roots of Langland’s iconic protest contest.  
