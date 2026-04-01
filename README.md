@@ -6,7 +6,7 @@ South Wales Evening Post; Carve Magazine; Wavelength Magazine; The Inertia; Wels
 
 Topics include: competition coverage; athlete profiles; athlete interviews; Welsh surf scene; event reporting.
 
-## Featured Work
+## Highlights
 • **Surfing Trio Hoping to Ride Wave of Success in Africa**  
 *South Wales Evening Post* coverage of Welsh surfers chasing qualification points on the WSL circuit in Morocco.  
 Read on [Pressreader](https://www.pressreader.com/uk/south-wales-evening-post/20260324/page/35)
