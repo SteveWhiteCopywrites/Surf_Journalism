@@ -34,6 +34,8 @@ Read on [WSF website](https://www.wsf.wales/news/welsh-surfers-selected-to-repre
 
 <img src="images/Trio1.png" width="600">
 
+---
+
 <img src="images/Trio2.png" width="600">
 
 ### Llywelyn Williams Four-Time World Para Surf Champ
@@ -42,6 +44,8 @@ Read on [WSF website](https://www.wsf.wales/news/welsh-surfers-selected-to-repre
 Read on [Carve Magazine](https://www.carvemag.com/2025/09/llywelyn-williams-aasp-world-tour-champion/) | [WSF website](https://www.carvemag.com/2025/11/llywelyn-williams-four-time-world-para-surf-champ/)
 
 <img src="images/Sponge1.png" width="600">
+
+---
 
 <img src="images/Sponge2.png" width="600">
 
@@ -68,6 +72,8 @@ Read on: [Carve Magazine](https://www.carvemag.com/2024/10/so-sick-the-return-of
 
 <img src="images/Toxic1.png" width="600">
 
+---
+
 <img src="images/Toxic2.png" width="600">
 
 ### Get Ready for The Welsh 2025
@@ -76,6 +82,8 @@ Read on: [Carve Magazine](https://www.carvemag.com/2024/10/so-sick-the-return-of
 Read on [Carve Magazine](https://www.carvemag.com/2025/05/get-ready-for-the-welsh-2025/)
 
 <img src="images/welshprev25a.png" width="600">
+
+---
 
 <img src="images/welshprev25b.png" width="600">
 
@@ -114,5 +122,7 @@ Read in full on [The Inertia](https://www.theinertia.com/surf/from-the-quest-for
 )
 
 <img src="images/Cotty1.png" width="600">
+
+---
 
 <img src="images/Cotty2.png" width="600">
