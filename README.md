@@ -90,7 +90,7 @@ Read on [Carve Magazine](https://www.carvemag.com/2025/05/get-ready-for-the-wels
 ### Team England Dominate to Take the GB Cup 2023
 **30 Oct 2023:** Competition report from the GB Cup held at Fistral Beach, Newquay, where Team England secured the overall team title ahead of Wales, Scotland and the Channel Islands. The event saw standout performances from England’s Stanley Norman and Lauren Sandland, while Wales’ Patrick Langdon-Dark finished runner-up in the men’s final.
 
-Read on [Welsh Surfing Federation](https://www.wsf.wales/news/team-england-dominate-to-take-the-gb-cup-2023-)  
+Read on [WSF website](https://www.wsf.wales/news/team-england-dominate-to-take-the-gb-cup-2023-)  
 
 <img src="images/gbcup23.png" width="600">
 
